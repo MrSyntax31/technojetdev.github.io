@@ -1,6 +1,5 @@
 /* =================================================================== 
- *#196cd8
- *  Epitome Main Stylesheet
+ *  Technojet Main Stylesheet
  *  Template Ver. 1.0.0
  *  04-22-2019
  *  ------------------------------------------------------------------
@@ -3306,7 +3305,7 @@ input::-moz-focus-inner {
 
 .contact-email {
   font-family: "Roboto", sans-serif;
-  font-size: 8rem;
+  font-size: 5rem;
   font-weight: 400;
   line-height: 1;
   margin: 5.6rem 0 8rem;
@@ -3376,7 +3375,7 @@ input::-moz-focus-inner {
 * ------------------------------------------------------------------- */
 @media screen and (max-width:1300px) {
   .contact-email {
-    font-size: 10rem;
+    font-size: 8rem;
   }
 
   .contact-infos {
@@ -3402,7 +3401,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:1024px) {
   .contact-email {
-    font-size: 7.2rem;
+    font-size: 5rem;
   }
 
   .contact-infos {
