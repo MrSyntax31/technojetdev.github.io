@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(2.50749,0,0,2.44255,-17.8071,-2.09222)">
+        <rect x="7.068" y="0.857" width="12.795" height="13.101"/>
+    </g>
+    <g transform="matrix(2.45606,0,0,2.44958,-2.22858,-1.83228)">
+        <text x="2.79px" y="13.499px" style="font-family:'ArcaMajora3-Heavy', 'Arca Majora 3';font-weight:900;font-size:15.357px;fill:white;">T</text>
+    </g>
+    <g transform="matrix(0.960163,0.875401,-1.96307,2.14181,21.897,-5.2569)">
+        <path d="M2.828,4.409L6.915,14.569L-1.259,14.569L2.828,4.409Z" style="fill:white;"/>
+    </g>
+    <g transform="matrix(0.960163,0.875401,-1.96307,2.14181,21.897,-5.2569)">
+        <path d="M2.828,4.409L3.681,6.51L1.84,6.525L2.828,4.409Z" style="fill:rgb(188,0,10);"/>
+    </g>
+</svg>
